@@ -12,3 +12,7 @@ Se realizarán las tareas enunciadas a continuación, utilizando los materiales 
 ##  Evaluación: 
 
 La entrega se hará mediante el enlace generado del repositorio de github y la página publicada en github pages, se realizará en parejas indicando en la entrega quienes han realizado la práctica
+
+
+
+Tarea realizada por Pablo Casanova Águila y Cristina Pascua: [página](https://dwec-2022-23.github.io/ut06_practica_dom-ejerciciosdom-casacua/)
