@@ -79,3 +79,6 @@ li button {
   font-size: .75em;
   padding: .5em .65em;
 }
+.ocultar{
+  display: none;
+}
